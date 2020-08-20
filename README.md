@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Software and Data (ML)
-- 📙 I learn better via practical books than videos.
+- 📙 I learn better via practical books than videos
 - 👯 I’m looking to collaborate on projects that involve Software and Data
 - 📫 How to find me: 🏢 [Linkedin](https://www.linkedin.com/in/eniwoke-c-b71852a1)
 
