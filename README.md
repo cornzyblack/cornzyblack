@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Eni
 - 🔭 I’m currently working on Software and Data (ML)
 - 📙 I learn better via practical books than videos
 - 👯 I’m looking to collaborate on projects that involve Software and Data
