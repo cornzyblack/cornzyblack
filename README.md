@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Eni
-- 🔭 I’m currently interested in AI, Software and Data
-- 📙 I learn better via practical books than videos
-- 👯 I’m looking to collaborate on projects that involve Software and Data
+- 🔭 I’m currently interested in AI, Software and Data, and I look forward to collaborating on these topics
+- 📙 I love learning and I use books and videos
 - 📫 How to find me: 🏢 [Linkedin!](https://www.linkedin.com/in/eniwoke-c-b71852a1)
 
 
