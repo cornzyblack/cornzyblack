@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Eni
-- 🔭 I’m currently working on Software and Data (ML)
+- 🔭 I’m currently interested in AI, Software and Data
 - 📙 I learn better via practical books than videos
 - 👯 I’m looking to collaborate on projects that involve Software and Data
 - 📫 How to find me: 🏢 [Linkedin!](https://www.linkedin.com/in/eniwoke-c-b71852a1)
