@@ -1,14 +1,12 @@
-### Hi there 👋, Eni here
+### Hi there 👋, Eni here  
 
-I’m passionate about **data** and the **software tools** that make it powerful. I love building, tinkering, and collaborating on projects that push the boundaries of data engineering, reliability, and automation.  
+I’m passionate about **data** and the **software tools** that make it powerful. I enjoy building, tinkering, and collaborating on projects that push the boundaries of data engineering, reliability, and automation.  
 
-- 🔭 **Current focus:** Exploring cutting-edge open-source data tools and creating educational content around them.  
-- 📚 **Always learning:** I dive into books, videos, and hands-on projects to sharpen my skills.  
+- 🔭 **Current focus:** Data quality frameworks, transformation workflows, and high-performance DataFrames.  
+- 📚 **Always learning:** I grow my skills through books, experiments, and open-source contributions.  
 
-Currently, I am experimenting with and contributing to projects at **[@uncoverthestack](https://github.com/uncoverthestack)**, including:  
-- [**DQX**](https://github.com/databrickslabs/dqx) – Data quality with Databricks  
-- [**Daft**](https://github.com/Eventual-Inc/Daft) – A high-performance Python DataFrame library  
-- [**Airbyte**](https://github.com/airbytehq/airbyte) – Open-source data integration  
-- [**SQLMesh**](https://github.com/TobikoData/sqlmesh) – Modern data transformation and workflow management  
+**Open-source involvement:**  
+- [**DQX**](https://github.com/databrickslabs/dqx) – Contributing to improving data quality tooling in Databricks.  
+- Exploring projects like [**Daft**](https://github.com/Eventual-Inc/Daft), [**Airbyte**](https://github.com/airbytehq/airbyte), and [**SQLMesh**](https://github.com/TobikoData/sqlmesh).  
 
-💡 I occasionally explore **ML** and **AI**, especially when they intersect with large-scale data systems.
+💡 I occasionally explore **ML** and **AI**, especially where they intersect with large-scale data systems.  
