@@ -7,6 +7,6 @@ I’m passionate about **data** and the **software tools** that make it powerful
 
 **Open-source involvement:**  
 - [**DQX**](https://github.com/databrickslabs/dqx) – Contributing to improving data quality tooling in Databricks.  
-- Presently I am learning Rust & JS, and I am exploring projects like [**Daft**](https://github.com/Eventual-Inc/Daft), and [**SQLMesh**](https://github.com/TobikoData/sqlmesh).
+- Currently, I am learning Rust & JS [React] for some ideas, and I am exploring projects like [**Daft**](https://github.com/Eventual-Inc/Daft), and [**SQLMesh**](https://github.com/TobikoData/sqlmesh).
 
 💡 I occasionally explore **ML** and **AI**, especially where they intersect with large-scale data systems.  
