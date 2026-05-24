@@ -6,7 +6,7 @@ engineering, automation, and developer experience.
 
 - 🔭 **Current focus:** Data quality frameworks and data engineering tooling
 - 📚 **Always learning:** Currently picking up ~~Rust~~ (🤯 will try another time), Go, and JS (React) for a few project ideas
-- 💡 I also explore **ML/AI**, especially where they intersect with large-scale data systems (when don't they 😅)
+- 💡 I also explore **ML/AI**, especially where they intersect with large-scale data systems (when don't they? 😅)
 
 **Open-source involvement:**
 
