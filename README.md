@@ -11,4 +11,4 @@ engineering, automation, and developer experience.
 **Open-source involvement:**
 
 - [**DQX**](https://github.com/databrickslabs/dqx) - Contributing to data quality tooling in Databricks
-- [**Databricks Bundle Inspector**](https://github.com/uncoverthestack/databricks-bundle-inspector) - Improving the developer experience for Databricks Asset Bundles
+- [**Databricks Bundle Inspector**](https://github.com/uncoverthestack/databricks-bundle-inspector) - Improving the developer experience for ~~Databricks Asset Bundles~~ Delarative Automation Bundles
